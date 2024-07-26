@@ -1,0 +1,15 @@
+# Alternatively, use a wildcard to match any year
+rpt.00013060.0000000000000000.DAMLZHBSPP_*.xlsx
+G4802010.stat
+G4802010.epw
+G4802010.ddy
+Native_Load_2024.xlsx
+Native_Load_2023.xlsx
+Native_Load_2022.xlsx
+Native_Load_2021.xlsx
+Native_Load_2020.xlsx
+Native_Load_2019.xlsx
+Native_Load_2018.xlsx
+20240612_20240612_PRC_INTVL_LMP_RTM_23_v2.csv
+data/load/Combined_Native_Load_2018_to_2024.csv
+up00-tx-single-family_detached.csv
